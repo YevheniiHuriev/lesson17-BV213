@@ -1,3 +1,4 @@
 class Friend{
-
+public:
+Friend();
 };
